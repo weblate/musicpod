@@ -1,5 +1,28 @@
 # Changelog
 
+## [2.5.0](https://github.com/ubuntu-flutter-community/musicpod/compare/v2.4.0...v2.5.0) (2024-11-21)
+
+
+### Features
+
+* add elapsed in bottom player time if activated in the settings ([#1025](https://github.com/ubuntu-flutter-community/musicpod/issues/1025)) ([5a6a38c](https://github.com/ubuntu-flutter-community/musicpod/commit/5a6a38ca7bd2f3cad5dfbda0a91fdc62082b453b)), closes [#753](https://github.com/ubuntu-flutter-community/musicpod/issues/753)
+* add support for "Album Artist" ([#1024](https://github.com/ubuntu-flutter-community/musicpod/issues/1024)) ([284fd66](https://github.com/ubuntu-flutter-community/musicpod/commit/284fd66ffd5be1ac673f76f70a57e556ff4258da)), closes [#339](https://github.com/ubuntu-flutter-community/musicpod/issues/339)
+* fix android permissions and icon ([#1027](https://github.com/ubuntu-flutter-community/musicpod/issues/1027)) ([0708612](https://github.com/ubuntu-flutter-community/musicpod/commit/07086123c10b49fd0ea1b49b5a47b1bbd8ba6818))
+* italian language update ([#1030](https://github.com/ubuntu-flutter-community/musicpod/issues/1030)) ([008ce6d](https://github.com/ubuntu-flutter-community/musicpod/commit/008ce6d6f877ca0f8be2b743c353018308ea8c38))
+* more android UI fixes ([#1028](https://github.com/ubuntu-flutter-community/musicpod/issues/1028)) ([515eb57](https://github.com/ubuntu-flutter-community/musicpod/commit/515eb57e6d427ad304b216610c2fd6f25aa06432))
+* new mobile scaffold ([#1034](https://github.com/ubuntu-flutter-community/musicpod/issues/1034)) ([d19308e](https://github.com/ubuntu-flutter-community/musicpod/commit/d19308e09332018eb91a67a79f77c77be8b65b4c))
+* show option bottom sheets for audio tiles on mobile ([#1032](https://github.com/ubuntu-flutter-community/musicpod/issues/1032)) ([bb7eef5](https://github.com/ubuntu-flutter-community/musicpod/commit/bb7eef57213fd38bb050c7656dd97ebee377ae90))
+* update app_sk.arb ([#1033](https://github.com/ubuntu-flutter-community/musicpod/issues/1033)) ([dbc89f5](https://github.com/ubuntu-flutter-community/musicpod/commit/dbc89f5aa0f3e55717656e80506662ff46c4f701))
+* update app_sv.arb ([#1031](https://github.com/ubuntu-flutter-community/musicpod/issues/1031)) ([b94fdca](https://github.com/ubuntu-flutter-community/musicpod/commit/b94fdca0d68e610086b349db74eaba6e32997afb))
+
+
+### Bug Fixes
+
+* band-aid fix to disallow linux video fullscreen ([#1023](https://github.com/ubuntu-flutter-community/musicpod/issues/1023)) ([8dbaa98](https://github.com/ubuntu-flutter-community/musicpod/commit/8dbaa98db2a345ee8a620b76a6af2544723d5cbf)), closes [#1022](https://github.com/ubuntu-flutter-community/musicpod/issues/1022)
+* delete redundant chinese CN file to prepare for weblate ([#1038](https://github.com/ubuntu-flutter-community/musicpod/issues/1038)) ([6c722d8](https://github.com/ubuntu-flutter-community/musicpod/commit/6c722d8ef1e34f42c572cf224178ea2639cb2a35))
+* pt arb file name ([#1037](https://github.com/ubuntu-flutter-community/musicpod/issues/1037)) ([434f662](https://github.com/ubuntu-flutter-community/musicpod/commit/434f662755133f03eccf591035b363ba110cd113))
+* windows new smtc plugin ([#1020](https://github.com/ubuntu-flutter-community/musicpod/issues/1020)) ([6d78c2b](https://github.com/ubuntu-flutter-community/musicpod/commit/6d78c2be575024404bd095dee5579987373ca19d))
+
 ## [2.4.0](https://github.com/ubuntu-flutter-community/musicpod/compare/v2.3.0...v2.4.0) (2024-11-16)
 
 
